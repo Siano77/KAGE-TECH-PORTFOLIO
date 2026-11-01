@@ -17,7 +17,7 @@ import {
 } from 'lucide-react'
 import './styles.css'
 
-const portrait = '/manus-storage/pasted_file_TYu7pT_image_e9a475ea.png'
+const portrait = '/portrait.png'
 const telegramUser = 'https://t.me/heiskagex'
 const telegramChannel = 'https://t.me/kagextech'
 
